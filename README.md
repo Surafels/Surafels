@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/surafelsamson2" target="blank"><img src="https://img.shields.io/twitter/follow/surafelsamson2?logo=twitter&style=for-the-badge" alt="surafelsamson2" /></a> </p>
 
-- 🌱 I’m currently **student at Microverse**
-
 - 📫 How to reach me **ssurafel4@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
